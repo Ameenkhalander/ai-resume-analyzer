@@ -1,6 +1,4 @@
-# ai-resume-analyzer
-AI based resume analyzer with ATS score using Flask
-# AI Resume Analyzer
+
 
 A Flask based web application that analyzes resume text and estimates ATS score.
 
